@@ -6,8 +6,8 @@ With AI, building is becoming easy. Knowing what to build, and proving it works,
 
 **What I'm building right now**
 
-- **[Elsewhere](https://github.com/gvlaurent/elsewhere)**: a web app to discover radio stations from all over the world, with search, user accounts, favorites and listening history. Built solo, end to end, for a French state qualification in application development (RNCP level 6).
-- **Faisceau** (working name, private for now): a decision tool that helps product managers decide what to build. An AI groups incoming requests into themes and attaches them automatically above a confidence threshold set by the PM; below it, a human reviews. To choose the model, I benchmarked nine LLMs from Anthropic, OpenAI and Mistral on 200 fictional tickets with a frozen prompt and a single scoring script. The protocol, the tickets and the scoring are public: **[llm-triage-benchmark](https://github.com/gvlaurent/llm-triage-benchmark)**.
+- :construction:**[Elsewhere](https://github.com/gvlaurent/elsewhere)**: a web app to discover radio stations from all over the world, with search, user accounts, favorites and listening history. Built solo, end to end, for a French state qualification in application development (RNCP level 6).
+- :construction:**Faisceau** (working name, private for now): a decision tool that helps product managers decide what to build. An AI groups incoming requests into themes and attaches them automatically above a confidence threshold set by the PM; below it, a human reviews. To choose the model, I benchmarked nine LLMs from Anthropic, OpenAI and Mistral on 200 fictional tickets with a frozen prompt and a single scoring script. The protocol, the tickets and the scoring are public: **[llm-triage-benchmark](https://github.com/gvlaurent/llm-triage-benchmark)**.
 
 **What I'm working on lately**
 
