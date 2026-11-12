@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel 👋</h1>
+<h1>Hi, I'm Gabriel :v::fr: </h1>
 
 Ex-CPO, 15 years in B2B product. I now build products end to end with AI: from discovery to a working MVP in front of real users.
 
